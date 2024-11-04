@@ -11,16 +11,15 @@
 
 
 ## 
-
- <a href="https://github.com/thenomaniqbal/Traffic-flow-prediction/">
-    <img src="images/ITS.png" width="100%" height="100%"> 
-    <img src="images/ITS2.png" width="100%" height="100%"> 
-    <img src="images/models.png" width="100%" height="100%">  
-    <img src="images/1.PNG" width="100%" height="100%"> 
-    <img src="images/2.PNG" width="100%" height="100%">  
-    <img src="images/3.PNG" width="100%" height="100%"> 
-    <img src="images/4.PNG" width="100%" height="100%"> 
-    <img src="images/5.PNG" width="100%" height="100%"> 
-    <img src="images/6.PNG" width="100%" height="100%">  
-    <img src="images/7.PNG" width="100%" height="100%"> 
-  </a>
+<a>
+    <img src="ITS.png" width="50%" height="50%"> 
+    <img src="ITS2.png" width="50%" height="50%"> 
+    <img src="models.png" width="50%" height="50%">  
+    <img src="1.PNG" width="50%" height="50%"> 
+    <img src="2.PNG" width="50%" height="50%">  
+    <img src="3.PNG" width="50%" height="50%"> 
+    <img src="4.PNG" width="50%" height="50%"> 
+    <img src="5.PNG" width="50%" height="50%"> 
+    <img src="6.PNG" width="50%" height="50%">  
+    <img src="7.PNG" width="50%" height="50%"> 
+</a>
